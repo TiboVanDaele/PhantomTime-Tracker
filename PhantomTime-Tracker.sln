@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhantomTime.App", "PhantomTime.App\PhantomTime.App.csproj", "{97986410-9C01-4249-80D4-55DC4ACA77F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhantomTime.Core", "PhantomTime.Core\PhantomTime.Core.csproj", "{4E14D517-1DA3-4F17-BD57-A798C662344F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhantomTime.Infrastructure", "PhantomTime.Infrastructure\PhantomTime.Infrastructure.csproj", "{881FB546-2643-4054-89C4-0FB64C396DB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97986410-9C01-4249-80D4-55DC4ACA77F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97986410-9C01-4249-80D4-55DC4ACA77F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97986410-9C01-4249-80D4-55DC4ACA77F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97986410-9C01-4249-80D4-55DC4ACA77F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E14D517-1DA3-4F17-BD57-A798C662344F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E14D517-1DA3-4F17-BD57-A798C662344F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E14D517-1DA3-4F17-BD57-A798C662344F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E14D517-1DA3-4F17-BD57-A798C662344F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{881FB546-2643-4054-89C4-0FB64C396DB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{881FB546-2643-4054-89C4-0FB64C396DB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{881FB546-2643-4054-89C4-0FB64C396DB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{881FB546-2643-4054-89C4-0FB64C396DB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
