@@ -8,7 +8,7 @@ namespace PhantomTime.Infrastructure.ProcessDetection;
 public class WindowsProcessDetector : IProcessDetector
 {
     // TODO: Add logging for exceptions encountered during process detection.
-    // TODO: Add disposing of Processes after I'm doen using them.
+    // TODO: Add disposing of Processes after I'm done using them.
 
     public IReadOnlyList<GameProcess> GetRunningProcesses()
     {
